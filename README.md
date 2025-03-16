@@ -1,4 +1,4 @@
-# -Neural-Network-for-Predicting-Electrical-Power-Consumption-ANNs
+# -Neural-Network-for-Predicting-Electrical-Power-Consumption
 
 ### README.md
 
